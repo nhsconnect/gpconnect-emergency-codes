@@ -8,6 +8,6 @@ This git repository has been published to support the emergency codes functional
 
 **End date:** TBC
 
-Link to emergency codes file
+[Link to emergency codes file](COVID-19/emergency_codes.csv)
 
-Link to content banner text
+[Link to content banner text](COVID-19/banner_content_text.txt)
