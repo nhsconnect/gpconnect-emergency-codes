@@ -181,3 +181,6 @@
 871559006,Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) in bronchoalveolar lavage fluid,Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 in bronchoalveolar lavage fluid (observable entity),
 871560001,Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) using polymerase chain reaction,Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 using polymerase chain reaction (observable entity),
 871562009,Detection of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),Detection of Severe acute respiratory syndrome coronavirus 2 (observable entity),
+905561000000106,Special patient note (record artifact),Special patient note,
+887701000000100,Emergency health care plan (record artifact),Emergency health care plan,
+735324008,Treatment escalation plan (record artifact),Treatment escalation plan,
