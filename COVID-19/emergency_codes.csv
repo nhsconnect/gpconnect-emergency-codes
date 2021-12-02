@@ -242,3 +242,7 @@
 1145035007,Second dose of Severe acute respiratory syndrome coronavirus 2 messenger ribonucleic acid vaccine contraindicated (situation),Second dose of SARS-CoV-2 mRNA vaccine contraindicated,
 1145034006,Second dose of Severe acute respiratory syndrome coronavirus 2 messenger ribonucleic acid vaccine declined (situation),Second dose of SARS-CoV-2 mRNA vaccine declined,
 1325021000000106,Signposting to Your COVID Recovery (procedure),Signposting to Your COVID Recovery,
+1366361000000103,Severe acute respiratory syndrome coronavirus 2 anti-spike immunoglobulin G detection result indeterminate (finding),SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) anti-spike IgG detection result indeterminate,
+1366351000000101,Severe acute respiratory syndrome coronavirus 2 anti-spike immunoglobulin G not detected (finding),SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) anti-spike IgG detection result negative,
+1366341000000104,Severe acute respiratory syndrome coronavirus 2 anti-spike immunoglobulin G detected (finding),SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) anti-spike IgG detection result positive,
+1366371000000105,Severe acute respiratory syndrome coronavirus 2 anti-spike immunoglobulin G detection result unknown (finding),SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) anti-spike IgG detection result unknown,
